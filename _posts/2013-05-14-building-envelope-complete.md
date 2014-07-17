@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Building envelope complete"
+---
+
+The building envelope is now complete. Our Passive House (PH) construction is focused on having an air-tight envelope. Why is this important? We will be able to reduce our HVAC's energy requirements by up to 90%.We used SIGA products to seal windows and doors, seams between SIPs and as a membrane on the facade. See [here](http://www.siga.ch/en/why-seal.html?&frage=479). The membrane prevents water penetration but allows the house to breathe, much like Gore-tex. On Thursday, we will perform a blower door test (see [here](http://energy.gov/energysaver/articles/blower-door-tests)) to measure how air tight the house is. If you are wondering how we get fresh air with an air-tight house, remember that we are also installing an HRV (heat recovery ventilator) to constantly refresh the air in the house to replace stale/humid air with fresh air from the outside. We can also open windows and doors, of course, but a future blog post will explain how we conserve the internal temperature of the house with the HRV when refreshing the air with cold or hot outdoor air. We also filter the incoming air so our indoor air quality will be better than the outdoor air quality. We are currently working on electrical, plumbing, networking/media infrastructure and HVAC. The next blog will show those elements before the interior walls are built.
+
+{% include image.html url="building-envelope-complete.jpg" %}

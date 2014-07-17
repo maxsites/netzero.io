@@ -1,0 +1,10 @@
+# Site settings
+title: Net Zero House
+email: max@bernsteinbear.com
+description: "Objective: passive house certification"
+baseurl: ""
+url: "http://netzero.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

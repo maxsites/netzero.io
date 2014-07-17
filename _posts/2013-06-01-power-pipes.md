@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Power pipes"
+---
+
+Conservation: As you have seen, conservation is a key theme of our house and it comes in many forms, including materials, energy, water and air. We re-used or recycled all of the building components of the prior house, for example. When we started to think about water, we believed we should conserve both the water itself as well as other qualities, including its heat. For example, in a traditional house, when one takes a shower, not only is the water drained directly into the sewer but the heat associated with that water is wasted. We decided to conserve both the water and the heat. To accomplish the former, we are deploying a passive greywater system to re-use water from sinks, showers and the washing machine into the landscape. More on that later. To accomplish the latter, we installed [Power-Pipes](http://www.renewability.com/power_pipe/index.html). Here is some information from their web site:
+
+"Water heating accounts for 20-25% of the total energy consumption in a typical home and showering demands the bulk of that hot water load in most homes. After use, 90% of the energy delivered to your shower goes down the drain. Water falling down a vertical drain stack does not run down the middle of the stack, but instead clings to the inside wall of the pipe. In a demand hot water recovery (DWHR) application, falling drain water forms a thin film that rapidly imparts its heat to the colder pipe wall. The Power-Pipe® captures much of this heat, then "recycles" it to raise the temperature of incoming cold water. A 60-inch Power-Pipe System, for example, can raise the cold water temperature from 10°C (50°F) to as much as 24°C (75°F), under equal flow conditions. Because the incoming cold water is preheated before going into the water heater and plumbing fixtures, the water heater uses less energy to raise the temperature of the water to the desired level for use, which saves money and increases the effective water heater capacity."
+
+Every home should use this system. Payback can be less than 2 years and there is absolutely no maintenance. Power-Pipe has been a great partner to this project and will help us calculate actual costs savings and financial returns as we put the system to use. Finally, you may be entitled to federal, state and local credits or incentives.
+
+{% include image.html url="power-pipes.jpg" %}
